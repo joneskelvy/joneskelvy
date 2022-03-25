@@ -1,4 +1,4 @@
-### Hello Devs! 👋 I'm Jones ### Welcome to my Github profile!
+### Hello! I'm Jones, Welcome to my Github profile!
 
 - I'm student of Analysis and Systems Development <br>
 
