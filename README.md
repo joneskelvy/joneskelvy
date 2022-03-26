@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://github.com/joneskelvy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneskelvy&layout=compact&langs_count=7&theme=jolly"/>
-    ![JonesKelvy GitHub stats](https://github-readme-stats.vercel.app/api?username=joneskelvy&theme=great-gatsby&show_icons=true)
+  <img height="180em"![JonesKelvy GitHub stats](https://github-readme-stats.vercel.app/api?username=joneskelvy&theme=great-gatsby&show_icons=true)
 </div>
 
 
