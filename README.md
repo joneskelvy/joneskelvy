@@ -20,9 +20,10 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/joneskelvy">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joneskelvy&theme=great-gatsby&show_icons=true)
+<div>
+  <a href="https://beacons.ai/joneskelvy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joneskelvy2&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneskelvy2&layout=compact&langs_count=16&theme=vue"/>
 </div>
 
 
