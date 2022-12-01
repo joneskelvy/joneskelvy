@@ -23,9 +23,7 @@
 
 
 <div>
-  <a href="https://beacons.ai/joneskelvy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joneskelvy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+  https://github-readme-streak-stats.herokuapp.com/?user={joneskelvy}
 </div>
 
 
