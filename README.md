@@ -17,7 +17,7 @@
 
 ## I'm studying | Back-End Skills
 <div style="display: inline_block">
-  <img align="center" alt="Leeh-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 <br>
 
